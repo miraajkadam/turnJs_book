@@ -1,129 +1,129 @@
-body{
-    overflow: hidden;
-    font-family: 'Lato', sans-serif;
-    font-weight: 400;
-    margin: 0 0;
+body {
+	overflow: hidden;
+	font-family: 'Lato', sans-serif;
+	font-weight: 400;
+	margin: 0 0;
 }
 
-img{
-    width: 100%;
-    height: 100%;
+img {
+	width: 100%;
+	height: 100%;
 }
 
-dl, ol, ul{
-    padding-left: 0px;
-    font-size: 130%;
-    margin-bottom: 1px;
+dl,
+ol,
+ul {
+	padding-left: 0px;
+	font-size: 130%;
+	margin-bottom: 1px;
 }
 
 .navigation {
-    width: 100%;
-    height: 60px;
-    z-index: 1000;
-    background: white;
+	width: 100%;
+	height: 60px;
+	z-index: 1000;
+	background: white;
 }
 
 .navigation li {
-    width: 20%;
-    float: left;
-    list-style: none;
-    text-align: center;
-    line-height: 60px;
+	width: 20%;
+	float: left;
+	list-style: none;
+	text-align: center;
+	line-height: 60px;
 }
 
 .navigation li a {
-    color: #333;
-    padding: 5px 10px;
+	color: #333;
+	padding: 5px 10px;
 }
 
-.flipbook{
-    width:800px;
-    height:600px;
+.flipbook {
+	width: 800px;
+	height: 600px;
 }
 
-.flipbook .page{
-    width:400px;
-    height:600px;
+.flipbook .page {
+	width: 400px;
+	height: 600px;
 }
 
 .headline {
-    padding: 0 50px;
-    font-size: 15px;
-    line-height: 30px;
-    margin: 20px 0;
-    font-weight: 500;
-    color: grey;
+	padding: 0 50px;
+	font-size: 15px;
+	line-height: 30px;
+	margin: 20px 0;
+	font-weight: 500;
+	color: grey;
 }
 
-.center{
-    width: 1200px;
-    height: 600px;
-    margin: auto;
-    position: relative;
-    z-index: 0;
-
+.center {
+	width: 1200px;
+	height: 600px;
+	margin: auto;
+	position: relative;
+	z-index: 0;
 }
 
-.super{
-    width: 100%;
-    height: 800px;    
-    background-image: url('https://lindascruggs.com/wp-content/uploads/2017/09/grey-background-07.jpg');
-    background-repeat: no-repeat;
+.super {
+	width: 100%;
+	height: 800px;
+	background-image: url('https://lindascruggs.com/wp-content/uploads/2017/09/grey-background-07.jpg');
+	background-repeat: no-repeat;
 }
 
-.super .details{
-    float: left;
-    margin-top: 140px;
+.super .details {
+	float: left;
+	margin-top: 140px;
 }
 
-.super .bookshelf{
-    float: right;
-    margin-top: 140px;
+.super .bookshelf {
+	float: right;
+	margin-top: 140px;
 }
 
-.flipbook .shadow{
-    box-shadow: 0 4px 10px #666;
+.flipbook .shadow {
+	box-shadow: 0 4px 10px #666;
 }
 
-.details p{
-    margin-top: 30px;
-    color: #333;
-    font-size: 18px;
-    font-weight: 500;
+.details p {
+	margin-top: 30px;
+	color: #333;
+	font-size: 18px;
+	font-weight: 500;
 }
 
-#mainImg{
-    width:300px;
-    height: 80px;
+#mainImg {
+	width: 300px;
+	height: 80px;
 }
 
-#downloadBtn{
-    margin-top: 40px;
-    padding: 5px 20px;
-    border: 1px solid #4D682B;
-    background-color: #657948;
-    border-radius: 20px;
-    height: 40px;
-    width: 130px;
-    font-size: 15px;
+#downloadBtn {
+	margin-top: 40px;
+	padding: 5px 20px;
+	border: 1px solid #4d682b;
+	background-color: #657948;
+	border-radius: 20px;
+	height: 40px;
+	width: 130px;
+	font-size: 15px;
 }
 
-#trailing{
-    font-weight: lighter;
-    color: #333;
-    margin: 20px 0;
-    font-size: 26px;
-    padding-top: 20px;
-    
+#trailing {
+	font-weight: lighter;
+	color: #333;
+	margin: 20px 0;
+	font-size: 26px;
+	padding-top: 20px;
 }
 
-#listObj{
-    margin-bottom: 1px;
-    font-size: 23px;
-    font-weight: lighter;
-    color: #333;
+#listObj {
+	margin-bottom: 1px;
+	font-size: 23px;
+	font-weight: lighter;
+	color: #333;
 }
 
-#navCont{
-    text-align: center;
+#navCont {
+	text-align: center;
 }
